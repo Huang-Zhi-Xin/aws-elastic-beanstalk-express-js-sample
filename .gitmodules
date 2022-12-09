@@ -1,0 +1,3 @@
+[submodule "Huang-Zhi-Xin/aws-elastic-beanstalk-express-js-sample"]
+	path = Huang-Zhi-Xin/aws-elastic-beanstalk-express-js-sample
+	url = https://github.com/Huang-Zhi-Xin/aws-elastic-beanstalk-express-js-sample.git
